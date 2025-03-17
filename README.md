@@ -1,5 +1,5 @@
 # movie-app
-A React Movie Application with Database and API
+A React Movie Application with Database and API <br>
 <b> Technologies Used: </b>
 - React
 - Tailwind CSS
